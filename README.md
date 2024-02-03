@@ -37,3 +37,11 @@ The `ContactDetails` and `AddressBook` classes handle the data storage and opera
 Overall, the Java code provides a simple command-line address book application that allows users to add, remove, search, and display contact details in an address book-like manner.
 ** output Demo **
 https://www.linkedin.com/feed/update/urn:li:activity:7089550872602443776/
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
